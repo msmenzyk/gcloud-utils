@@ -1,6 +1,5 @@
 # cleanup.sh — Delete multiple GCP projects (and keep going)
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 This script deletes a list of Google Cloud projects and **continues on errors**.  
 It retries transient failures with exponential backoff and logs results to files.
@@ -30,11 +29,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-  MusicTech Lab - Rockstars Developers dedicated to the Music Industry<br>
-  <a href="https://musictechlab.io">Website</a>
+  Mariusz Smenżyk - Rockstars Developers dedicated to the Music Industry<br>
+  <a href="https://mtl.dev">Website</a>
   <span> | </span>
-  <a href="https://linkedin.com/company/musictechlab">LinkedIn</a>
+  <a href="https://linkedin.com/company/Mariusz Smenżyk">LinkedIn</a>
   <span> | </span>
-  <a href="https://musictechlab.io/contact">Let's talk</a><br>
-  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
+  <a href="https://mtl.dev/contact">Let's talk</a><br>
+  Crafted by <a href="https://mtl.dev">mtl.dev</a>
 </div>
